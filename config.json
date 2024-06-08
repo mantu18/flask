@@ -1,0 +1,14 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql+mysqlconnector://root:root@localhost/devarena",
+        "prod_uri":"mysql+mysqlconnector://root:root@localhost/devarena",
+        "fb_url":"https://facebook.com/devarena",
+        "tw_url":"https://twitter.com/devarena",
+        "gh_url":"https://github.com/devarena",
+        "about_text":"hi i am mantu this is my blog developed by me"
+       
+
+    }
+}
